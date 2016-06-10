@@ -24,4 +24,6 @@ A suggestion for how to structure the descriptions for any non-trivial PR:
 
 It's also helpful to proactively leave comments around particularly tricky parts of the PR, either as comments in the code itself or comments made in Bitbucket's PR interface, whatever makes the most sense.
 
+Also, extra points for pictures! Or even better, GIFs!
+
 _Contribute to this discussion by creating a PR!_ (I know, so meta)
