@@ -1,6 +1,7 @@
 
 
-# Contributing
+Contributing
+============
 
 All of our code is peer-reviewed (PR'd) via pull requests (also PR) from a dedicated Git branch. Our current process is something like this: One team member finishes some work and runs the units tests. Once they all pass, he then pushes the branch up to Bitbucket, creates a pull request (usually against the master branch) and adds _all_ the other front-end engineers as reviewers. Once at least two reviewers have marked the PR as approved, which usually takes well under 24 hours, the author can then merge the PR. 
 
@@ -15,4 +16,12 @@ Another potential problem with how PRs are currently done is the time and energy
 > If you can't explain it simply, you don't understand it well enough.
 > -- Albert Einstein
 
-Contribute to this discussion by creating a PR! (I know, so meta)
+A suggestion for how to structure the descriptions for any non-trivial PR:
+
+- Part One: Thesis, or how things currently are.
+- Part Two: Antithesis, or what is the reason for this PR being created, what problem is being addressed?
+- Part Three: Synthesis, or how this PR goes about solving the problem explained above.
+
+It's also helpful to proactively leave comments around particularly tricky parts of the PR, either as comments in the code itself or comments made in Bitbucket's PR interface, whatever makes the most sense.
+
+_Contribute to this discussion by creating a PR!_ (I know, so meta)
